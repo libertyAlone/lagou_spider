@@ -1,5 +1,5 @@
 # lagou_spider
-建议拉勾网爬虫，使用了Mongodb
+简易拉勾网爬虫，只爬了前端标签，使用了Mongodb
 
 运行如下命令启动爬虫:
 
