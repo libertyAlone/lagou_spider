@@ -7,4 +7,4 @@
 scrapy crawl lagou_job
 `
 
-![爬取示例](/Users/liberty/Desktop/jietu.jpg)
+![爬取示例](https://github.com/libertyAlone/lagou_spider/blob/master/jietu.jpg)
